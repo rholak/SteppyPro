@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "CodeFriendly",
+    "longName": "Steppy Pro",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "SteppyPro",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "22a2e395-bc50-42da-9177-e90c9fe6d626",
+    "versionLabel": "0.1",
+    "watchapp": {
+        "watchface": true
+    }
+}
